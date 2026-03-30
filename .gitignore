@@ -1,0 +1,19 @@
+# Maven
+target/
+dependency-reduced-pom.xml
+
+# Java
+*.class
+
+# Executables
+*.exe
+*.msi
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
